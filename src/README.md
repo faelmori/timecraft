@@ -39,7 +39,7 @@ timecraft/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/faelmori/timecraft.git
+   git clone https://github.com/rafa-mori/timecraft.git
    cd timecraft
    ```
 
@@ -178,7 +178,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 If you have any questions or feedback, please feel free to reach out:
 
 - Email: [faelmori@gmail.com](mailto:faelmori@gmail.com)
-- GitHub: [faelmori/timecraft](https://github.com/faelmori/timecraft)
+- GitHub: [faelmori/timecraft](https://github.com/rafa-mori/timecraft)
 - LinkedIn: [Rafa Mori](https://www.linkedin.com/in/rafa-mori)
 
 ---

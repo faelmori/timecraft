@@ -88,10 +88,10 @@ ml = ["scikit-learn", "prophet"]
 viz = ["seaborn", "plotly", "kaleido"]
 
 [project.urls]
-Homepage = "https://github.com/faelmori/timecraft"
-Documentation = "https://github.com/faelmori/timecraft/docs"
-Repository = "https://github.com/faelmori/timecraft"
-"Bug Tracker" = "https://github.com/faelmori/timecraft/issues"
+Homepage = "https://github.com/rafa-mori/timecraft"
+Documentation = "https://github.com/rafa-mori/timecraft/docs"
+Repository = "https://github.com/rafa-mori/timecraft"
+"Bug Tracker" = "https://github.com/rafa-mori/timecraft/issues"
 
 [project.scripts]
 timecraft-cli = "timecraft.cli:main"

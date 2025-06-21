@@ -62,7 +62,7 @@ Requirements:
 
 ```bash
 # Clone the repository
-git clone https://github.com/faelmori/timecraft.git
+git clone https://github.com/rafa-mori/timecraft.git
 cd timecraft
 
 # (Optional) Create and activate a virtual environment
@@ -210,5 +210,5 @@ Contributions are welcome! See the [Contributing Guide](CONTRIBUTING.md) for det
 ## **Contact**
 💌 **Developer**:  
 [Rafael Mori](mailto:faelmori@gmail.com)
-💼 [faelmori/timecraft on GitHub](https://github.com/faelmori/timecraft)
+💼 [faelmori/timecraft on GitHub](https://github.com/rafa-mori/timecraft)
 [LinkedIn: Rafa Mori](https://www.linkedin.com/in/rafa-mori)

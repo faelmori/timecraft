@@ -61,7 +61,7 @@ Requisitos:
 
 ```bash
 # Clone o repositório
- git clone https://github.com/faelmori/timecraft.git
+ git clone https://github.com/rafa-mori/timecraft.git
  cd timecraft
 
 # (Opcional) Crie e ative um ambiente virtual
@@ -209,5 +209,5 @@ Contribuições são bem-vindas! Veja o [Guia de Contribuição](CONTRIBUTING.md
 ## **Contato**
 💌 **Developer**:  
 [Rafael Mori](mailto:faelmori@gmail.com)
-💼 [faelmori/timecraft no GitHub](https://github.com/faelmori/timecraft)
+💼 [faelmori/timecraft no GitHub](https://github.com/rafa-mori/timecraft)
 [LinkedIn: Rafa Mori](https://www.linkedin.com/in/rafa-mori)
